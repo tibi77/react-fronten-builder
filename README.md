@@ -1,3 +1,5 @@
+Create-react-app started using yarn for some reason or another
+Done using hooks the code looks more readable now :D Thx to the one that had this amazing idea 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
